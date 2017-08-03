@@ -9,6 +9,8 @@ title: Artificial Intelligence and Music Composition
 
 [Google released their first musical single this week][google-song] --- a 90-second long piano melody composed entirely by a computer. Give it a listen and the first impression you'll (probably) have is that it is bad. Like, painfully bad.
 
+<!--break-->
+
 The software behind this song is a recently open-sourced music and art generation toolkit developed by the [Google Brain team called Project Magenta][google-magenta] --- "a research project to advance the state of the art in machine intelligence for music and art generation... [and] an attempt to build a community of artists, coders and machine learning researchers". Anyone can download, use, and contribute to the development of Project Magenta. You can pass the software a database of music and it will listen to it and learn how to write music from it.
 
 When I say that computer programs are 'listening', 'learning' and 'writing', I don't mean to imply that they are conscious or self-aware. Instead I'm using some familiar actions as analogues for understanding the complex things these programs are doing. 'Listening' really means processing some kind of input, 'learning' really means recognizing and remembering patterns and 'writing' really means creating some kind of output. Recent research in artificial intelligence has pushed the boundaries of what we can do with computers and this practice of understanding by analogy is useful in a world where they are increasingly capable of doing 'human' things.

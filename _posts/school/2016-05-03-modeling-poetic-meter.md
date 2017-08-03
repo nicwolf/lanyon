@@ -5,7 +5,11 @@ title: Modeling Poetic Meter
 
 *Edited 08/02/2017*
 
-My interest in language was sparked by Latin classes I took in high-school. Latin is an interesting language for a number of reasons — the aspect of it that always fascinated me is the structure of Roman epic poetry. Virgil’s *Aeneid*, the 12-book long poem that tells the story of the founding of Rome, uses a rhythmic scheme called dactylic hexameter. *Dactylic hexameter*[^1] is a meter that consists of lines made from six bars or “feet". Each foot can be either a *dactyl*, which contains a long syllable followed by two short syllables (“dum-ditty"), and is marked with the notation
+My interest in language was sparked by Latin classes I took in high-school. Latin is an interesting language for a number of reasons — the aspect of it that always fascinated me is the structure of Roman epic poetry. In this project I begin by developing a Bayesian classifier for predicting poetic meter in Virgil's *Aeneid*. Following that, I highlight the problems inherent in using a Naive Bayes approach and solve those problems by extending the classifier with a Hidden Markov Model.
+
+<!--break-->
+
+The *Aeneid*, a 12-book long poem that tells the story of the founding of Rome, uses a rhythmic scheme called dactylic hexameter. *Dactylic hexameter*[^1] is a meter that consists of lines made from six bars or “feet". Each foot can be either a *dactyl*, which contains a long syllable followed by two short syllables (“dum-ditty"), and is marked with the notation
 
 > ‒ ∪ ∪
 

@@ -4,11 +4,11 @@ title: Senior Capstone Project
 ---
 *Edited 08/02/20217*
 
-## Introduction
-
 I will be graduating from the University of Arizona in May, 2016 with a Bachelor of Science degree in Information Science and Technology. My degree program places an emphasis on the interdisciplinary applications of information and computer science. I have had the opportunity to take a wide breadth of courses covering topics such as machine learning, music production, and library science. Part of earning my degree is completing an independent project that captures the knowledge I have gained from my education.
 
 The most valuable lesson from my education is that learning can (and should be) creative, collaborative, and fun. I wanted to spend this semester learning about concepts that interest me – machine learning algorithms, probabilistic models, and natural language processing – by making art.
+
+<!--break-->
 
 My interest in digital art was sparked by the multimedia programming language Processing. Processing is a wonderful piece of software that aims to "teach coding in the context of visual art”. I began learning Processing as part of a course and discovered a creative outlet that felt intuitive. My interests narrowed to realtime graphics and generative art and I started eyeing the software application TouchDesigner by Derivative. TouchDesigner is a media production environment that combines the organizational power of a visual, node-based programming language with the flexibility and extensibility of Python and C++. It has a wide breadth of applications but is commonly used for interactive installations, architectural projection mapping, and stage production.
 

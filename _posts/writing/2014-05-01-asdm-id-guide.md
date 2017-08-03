@@ -9,6 +9,8 @@ title: Animal ID Guide
 
 During my second year of University I participated in a project with fellow students and the Arizona Sonora Desert Museum (ASM). We conducted field research in an attempt to characterize the activity of animals living in riparian areas (land-water-interfaces) in the Sonoran Desert. The "Wildcat Water Watchers".
 
+<!--break-->
+
 <p align="center">
   <img src="https://s3-us-west-2.amazonaws.com/nicwolf-github-io/assets/asdm-id-guide/cover.png">
 </p>
