@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Artificial Intelligence and Music Composition
+category: Writing
+tags: [Music, Machine Learning]
 ---
 
 *08/02/2017:*
