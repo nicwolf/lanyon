@@ -22,7 +22,7 @@
   visibility: hidden;
   overflow-y: auto;
   font-family: "PT Sans", Helvetica, Arial, sans-serif;
-  font-size: .875rem; /* 15px */
+  font-size: 1; /* 15px */
   color: rgba(255,255,255,.6);
   @include transition(all .3s ease-in-out);
 
@@ -40,11 +40,11 @@
     background-color: darken($theme-color-dark, 10%);
   }
 }
-@media (min-width: 30em) {
-  .sidebar {
-    font-size: .75rem; /* 14px */
-  }
-}
+// @media (min-width: 30em) {
+//   .sidebar {
+//     font-size: .75rem; /* 14px */
+//   }
+// }
 
 /* Sidebar content */
 .sidebar a {
