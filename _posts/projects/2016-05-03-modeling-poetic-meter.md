@@ -4,6 +4,7 @@ title: Machine Learning for Modeling Poetic Meter
 category: Projects
 tags: [Latin, Natural Language Processing, Machine Learning]
 featured: true
+permalink: poetry
 ...
 *08/02/2017:*
 
