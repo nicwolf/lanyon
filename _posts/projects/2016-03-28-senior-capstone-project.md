@@ -4,6 +4,7 @@ title: Capstone Project - Generative Art in Production Environments
 category: Projects
 tags: [Graphics, Art, TouchDesigner, Machine Learning]
 featured: true
+permalink: capstone
 ---
 *08/02/2017:*
 

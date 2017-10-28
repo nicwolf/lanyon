@@ -3,6 +3,7 @@ layout: post
 title: Data Visualization Dashboard
 category: Projects
 tags: [AWS, Python, Data]
+permalink: dashboard
 ---
 
 [No Kill Pima County][no-kill-pima-website] is an animal advocacy group that works with the Pima County Animal Care Center (PACC) to reduce the number of animals that are unnecessarily euthanized in Tucson. On occasion, I do data analysis work for them and recently I created an interactive visualization tool they can use to investigate patterns in euthanasia trends:
