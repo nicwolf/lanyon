@@ -2,7 +2,7 @@
 layout: default
 ---
 
-I am a software developer at the University of Arizona's Planetary Image Research Laboratory where I support instruments like [NASA's HiRISE][HiRISE] camera.
+I am a senior software engineer with Littlebird, an apartment-automation startup, where I oversee development projects with diverse software and hardware components--I'm responsible for everything from our CI/CD systems to our embedded computer-vision applications. Previously, I worked at the University of Arizona's Planetary Image Research Laboratory and supported instruments like [NASA's HiRISE][HiRISE] camera.
 
 The technical focus of my work tends towards natural language processing, machine learning, real-time graphics and typesetting.
 
