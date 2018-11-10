@@ -10,7 +10,6 @@ permalink: dashboard
 
 ![Image: No Kill Pima Data Visualization Dashboard](https://s3-us-west-2.amazonaws.com/nicwolf-github-io/assets/no-kill-pima-data-visualization/images/dashboard.png)
 
-The application was build on AWS Elastic Beanstalk using Python, DC.js, D3.js, and keen.io. [You can see it here.][dashboard-website]
+The application was build on AWS Elastic Beanstalk using Python, DC.js, D3.js, and keen.io.
 
 [no-kill-pima-website]: https://www.nokillpimacounty.org/
-[dashboard-website]: http://nokillpima-datavis.us-west-2.elasticbeanstalk.com/
